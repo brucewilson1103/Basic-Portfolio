@@ -136,5 +136,31 @@ footer{
   padding: 20px;
   color: #4aaaa5;
   background-color:#ffffff;
-  height: 400px;
+  height: 900px;
+}
+
+.picture2{
+  position: relative;
+  left: 10px;
+
+}
+.picture3{
+  position: relative;
+  top: 300px;
+  right: 415px;
+  
+}
+
+.picture4{
+  position: relative;
+  top: 300px;
+  right: 405px;
+
+}
+
+.picture5{
+  position: relative;
+  top: 600px;
+  right: 828px;
+
 }
