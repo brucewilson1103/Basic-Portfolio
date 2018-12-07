@@ -147,7 +147,7 @@ footer{
 .picture3{
   position: relative;
   top: 300px;
-  right: 415px;
+  right: 413px;
   
 }
 
@@ -163,4 +163,40 @@ footer{
   top: 600px;
   right: 828px;
 
+}
+.picone{
+  position: relative;
+  bottom: 691px;
+  left: 163px;
+
+}
+.hang{
+  background-color: #4aaaa5;
+  width: 200px;
+  color: #ffffff;
+  text-align: center;
+
+}
+.pictwo{
+  position: relative;
+  bottom:765px;
+  left: 379px;
+
+}
+.picthree{
+  position: relative;
+  bottom:539px;
+  left: 162px;
+
+}
+.picfour{
+  position: relative;
+  bottom:613px;
+  left: 376px;
+
+}
+.picfive{
+  position: relative;
+  bottom:387px;
+  left: 159px;
 }
